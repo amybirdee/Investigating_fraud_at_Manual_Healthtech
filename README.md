@@ -1,2 +1,3 @@
-- The task involved exploring the data to find an issue
-- Once the issue was detected (i.e. an increase in fraudulent transaction attempts), create a slide deck that summarises the issue and provides actionable recommendations for a C-suite level audience
+- This analysis is a deep dive into Manual Healthtech's transactions data. It identifies fraudulent activity within a particular bank in Brazil
+
+- The analysis identifies possible reasons for the increase in fraudulent activity and also provides actionable recommendations that the healthtech company can take to protect themselves from fraud in the short and longer term
